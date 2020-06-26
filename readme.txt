@@ -1,6 +1,6 @@
 *   Aplikację napisz w języku C++ pod środowisko Linux (Ubuntu, Mint czy inne
     kompatybilne z nimi).
-*   Kod powinien być zgodny z C++03. c++11
+*   Kod powinien być zgodny z C++03. Pisze w c++11
 *   Powinieneś stworzyć skrypty budujące aplikację (najlepiej CMake).
 *   Nie korzystaj z unikatowych zależności których zapewne na naszych
     komputerach nie będzie – zaoszczędzi nam to niepotrzebnych zmartwień
