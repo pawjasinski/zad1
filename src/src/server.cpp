@@ -46,7 +46,7 @@ void Server::show() {
 
 bool Server::reset() {
     std::stringstream ss;
-    ss << "zagubiono liczbe: " << rnd;
+    ss << "Server reset at number: " << rnd;
     logr(ss.str().c_str());
     pull_int();
 }
